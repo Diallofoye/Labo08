@@ -1,0 +1,247 @@
+
+  .img-accueil {
+    width: 100%;
+    height: auto;
+  }
+  .realis{
+    width: 650px ;
+    height: 450px;
+    margin-top: 15px;
+
+  }
+  .butt{
+    margin-top: 15px;
+  }
+
+
+.container {
+    column-count: 2;
+    column-gap: 20px;
+    column-rule: 4px dotted rgb(79, 185, 227);
+    margin-top: 15px;
+  }
+  .img-aprpos{
+width: 750px ;
+height: 450px;
+  }
+  h1{
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .services{
+    margin-top: 15px;
+    text-align: center;
+  }
+  .service {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .service img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .service h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  
+  /* Styles de la section contact */
+  s* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container3 {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+  }
+  
+ 
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  textarea {
+    height: 150px;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #ff9900;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #e68a00;
+  }
+  
+    
+    /* Styles du footer */
+    footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    }
+    
+    footer p {
+    font-size: 14px;
+    }
+    h1,h2{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+          }
+          
+          .container4 {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+          }
+          
+          .column {
+            flex-basis: 30%;
+            padding: 20px;
+            background-color: #f2f2f2;
+            border-radius: 5px;
+          }
+          
+          h2 {
+            margin-bottom: 10px;
+          }
+          
+          p {
+            line-height: 1.5;
+          }
+          * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+          }
+          
+          .container2 {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+          }
+          
+          .column {
+            flex-basis: 50%;
+            padding: 12px;
+          }
+          
+          h2 {
+            margin-bottom: 10px;
+          }
+          
+          p {
+            line-height: 1.5;
+          }
+
+          
+          .menu {
+            display: block;
+            text-align: center;
+          }
+         nav, li{
+            display: inline-block;
+            border: solid#333;
+            list-style-type: square;
+            padding: 5px;
+            background-color: #333;
+            list-style-type: none;
+            font-family: Arial, Helvetica, sans-serif;
+          }
+          li a:visited{
+            color: white;
+          }
+          ul{
+            display: inline-block;
+            border: solid#333;
+            list-style-type: square;
+            padding: 10px;
+            background-color: #333;
+            list-style-type: none;
+        
+          }
+          li:hover{
+            background-color: #333;
+          }
+          .image{
+            width: 400px;
+            height: 350px;
+            display: inline-block;
+            border: solid black 2px;
+            margin: 20px;
+            text-align: center;
+          }
+
+          .image-container {
+            display: flex;
+          }
+          .accueilp{
+            margin-top: 15px;
+          }
+          .realisa{
+            margin-top: 15px;
+          }
+          img {
+            width: 25%;
+            height: auto;
+          }
+          .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #e68a00;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin-top: 15px;
+          }
+          
+          .button:hover {
+            background-color: #e68a00;
+          }
+          
+          
+          
+          
+          
+          
